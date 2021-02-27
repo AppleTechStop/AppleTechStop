@@ -1,26 +1,26 @@
-Package: com.AppleTechStop.torbrowser
+Package: com.appletechstop.torbrowser
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: brendonjoslin@yahoo.com
-Filename: ./debs/com.AppleTechStop.torbrowser_1.0_iphoneos-arm.deb
-Size: 65103416 
-MD5sum: bea5b508b5e79ca0807347a036da52c6
-SHA1: bfa4dbb24a6beac2851b1444235857f31e592bde
-SHA256: 03e9907a9f7496680a478704b5c95d6fd25204f0c331eee2f7b607deff82351f
+Filename: ./debs/com.appletechstop.torbrowser_1.0_iphoneos-arm.deb
+Size: 65103450 
+MD5sum: f048d586b583e912dbea4a454f65ad88
+SHA1: 2ba41dd5a0e5c57bad03491a70d2e43ed693f67f
+SHA256: 9a1bca45130fc64cc437a6565f075cd801f5e47166f228de45b71756416dd996
 Section: Applications 
 Description: Broswe through the dark when it is light on the web! With Tor Browser ++!
 Author: AppleTechStop
-Name: Tor Browser
+Name: TorBrowser
 
-Package: com.AppleTechStop.wallcraftpro
+Package: com.appletechstop.wallcraftpro
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: brendonjoslin@yahoo.com
-Filename: ./debs/com.AppleTechStop.wallcraftpro_1.0_iphoneos-arm.deb
-Size: 63881034 
-MD5sum: e8c0afba296f7fdfb8df6e260a94ee3b
-SHA1: e72a566befc70a2eb0f624bd7e2bf1691f4e880c
-SHA256: 7f66f0be4004e99a9ea532f02355e0c97d358f7575bfe9dbba325cebf5b31a3c
+Filename: ./debs/com.appletechstop.wallcraftpro_1.0_iphoneos-arm.deb
+Size: 13216182 
+MD5sum: 422b68b071eae9b3ca1c94b79cae8054
+SHA1: 2c4b5806dc097a2e2593b6c4a6597d39acbefa64
+SHA256: ad041b29f50fc1aac8c4d0ab84829be3a397eae47a6b0a4d5a0f72b7e066c336
 Section: Applications 
 Description: Get premium legit wallpapers with this awesome wallpaper iOS app!
 Author: AppleTechStop
