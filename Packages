@@ -1,8 +1,8 @@
 Package: com.AppleTechStop.torbrowser
-Version: 1.1.0
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: brendonjoslin@yahoo.com
-Filename: ./debs/com.AppleTechStop.torbrowser_1.1.0_iphoneos-arm.deb
+Filename: ./debs/com.AppleTechStop.torbrowser_1.0_iphoneos-arm.deb
 Size: 65103416 
 MD5sum: bea5b508b5e79ca0807347a036da52c6
 SHA1: bfa4dbb24a6beac2851b1444235857f31e592bde
@@ -13,10 +13,10 @@ Author: AppleTechStop
 Name: Tor Browser
 
 Package: com.AppleTechStop.wallcraftpro
-Version: 1.20
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: brendonjoslin@yahoo.com
-Filename: ./debs/com.AppleTechStop.wallcraftpro_1.20_iphoneos-arm.deb
+Filename: ./debs/com.AppleTechStop.wallcraftpro_1.0_iphoneos-arm.deb
 Size: 63881034 
 MD5sum: e8c0afba296f7fdfb8df6e260a94ee3b
 SHA1: e72a566befc70a2eb0f624bd7e2bf1691f4e880c
