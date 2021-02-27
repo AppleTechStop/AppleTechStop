@@ -1,27 +1,13 @@
-Package: com.appletechstop.torbrowser
+Package: com.appletechstop.sileo
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: brendonjoslin@yahoo.com
-Filename: ./debs/com.appletechstop.torbrowser_1.0_iphoneos-arm.deb
-Size: 65103450 
-MD5sum: f048d586b583e912dbea4a454f65ad88
-SHA1: 2ba41dd5a0e5c57bad03491a70d2e43ed693f67f
-SHA256: 9a1bca45130fc64cc437a6565f075cd801f5e47166f228de45b71756416dd996
+Filename: ./debs/com.appletechstop.sileo_1.0_iphoneos-arm.deb
+Size: 9382098 
+MD5sum: d5034ca5f94f8a3b1e97b6d953eb3a1b
+SHA1: 9f50d4420138b2f0035bc59edf8c916c47da8507
+SHA256: 6cc784f66cd243bf14832a735db06299e53159f7bf600860d4605e3c8d89ca56
 Section: Applications 
-Description: Broswe through the dark when it is light on the web! With Tor Browser ++!
+Description: A cydia alternative packahe manager but for jailbroken ios device! This is a demo version!
 Author: AppleTechStop
-Name: TorBrowser
-
-Package: com.appletechstop.wallcraftpro
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: brendonjoslin@yahoo.com
-Filename: ./debs/com.appletechstop.wallcraftpro_1.0_iphoneos-arm.deb
-Size: 13216182 
-MD5sum: 422b68b071eae9b3ca1c94b79cae8054
-SHA1: 2c4b5806dc097a2e2593b6c4a6597d39acbefa64
-SHA256: ad041b29f50fc1aac8c4d0ab84829be3a397eae47a6b0a4d5a0f72b7e066c336
-Section: Applications 
-Description: Get premium legit wallpapers with this awesome wallpaper iOS app!
-Author: AppleTechStop
-Name: WallCraftPro
+Name: Sileo
