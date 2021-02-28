@@ -8,6 +8,6 @@ MD5sum: d5034ca5f94f8a3b1e97b6d953eb3a1b
 SHA1: 9f50d4420138b2f0035bc59edf8c916c47da8507
 SHA256: 6cc784f66cd243bf14832a735db06299e53159f7bf600860d4605e3c8d89ca56
 Section: Applications 
-Description: A cydia alternative packahe manager but for jailbroken ios device! This is a demo version!
+Description: A cydia alternative package manager but for jailbroken ios devices! This is a demo version!
 Author: AppleTechStop
 Name: Sileo
