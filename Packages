@@ -54,6 +54,20 @@ Description:  CryptoCurrency miner designed for your iOS device.
 Author: AppleTechStop
 Name: MobileMiner
 
+Package: com.appletechstop.batterylife
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: brendonjoslin@yahoo.com
+Filename: ./debs/com.appletechstop.batterylife_1.0_iphoneos-arm.deb
+Size: 1133272 
+MD5sum: 0f2b2bf07ad295dcf0a2d2971ae62888
+SHA1: d9edeca46c869e0499a5f857e60458c7bad2347b
+SHA256: 5e8b31afdb08465cb8826908258e003ef5babdeb2c3a8830956049b9f25aa982
+Section: Applications 
+Description:  BatteryLife displays you information about your Battery and Device health.
+Author: AppleTechStop
+Name: BatteryLife
+
 
 
 
