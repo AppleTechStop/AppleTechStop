@@ -25,3 +25,19 @@ Section: Applications
 Description: Learn how to make cydia tweaks!
 Author: AppleTechStop
 Name: TheosTips
+
+Package: com.appletechstop.ishshell
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: brendonjoslin@yahoo.com
+Filename: ./debs/com.appletechstop.ishshell_1.0_iphoneos-arm.deb
+Size: 3276462 
+MD5sum: ee9fe3ec8c5780b5565a7c1b0ea35ddd
+SHA1: cf6e81edce76da3fe2d1ace65901937f472d1ee9
+SHA256: 9ae855b5f744f23fc53f8ff94c14b03085c7026770155f58d4a2d7daa498edca
+Section: Applications 
+Description:  A project to get a Linux shell running on iOS!
+Author: AppleTechStop
+Name: IshShell
+
+
