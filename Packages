@@ -12,16 +12,16 @@ Description: A cydia alternative package manager but for jailbroken ios devices!
 Author: AppleTechStop
 Name: Sileo
 
-Package: com.appletechstop.torbrowser
+Package: com.appletechstop.theostips
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: brendonjoslin@yahoo.com
-Filename: ./debs/com.appletechstop.torbrowser_1.0_iphoneos-arm.deb
-Size: 65103422 
-MD5sum: 4c30e61fceb7a0563c0a278b1c987322
-SHA1: ec5cb890fd93fb33ee0b7ead1c9033475b0af3d6
-SHA256: da72bfa08335703763803da37b84e24f4daa094b9e714168874145dd668219f9
+Filename: ./debs/com.appletechstop.theostips_1.0_iphoneos-arm.deb
+Size: 8851480 
+MD5sum: 354eee681f8d42821b8ac29610e82c3e
+SHA1: 80ff0073702b1ee3152c6bfa0fbad9ad54bc8f5a
+SHA256: ff4561629750e718ca6de4a7b333c3ad3fa01a033a37293f454653911f6df731
 Section: Applications 
-Description: Broswe in the dark safely with Tor Browser!
+Description: Learn how to make cydia tweaks!
 Author: AppleTechStop
-Name: Tor Browser
+Name: TheosTips
