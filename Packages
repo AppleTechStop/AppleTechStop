@@ -68,6 +68,20 @@ Description:  BatteryLife displays you information about your Battery and Device
 Author: AppleTechStop
 Name: BatteryLife
 
+Package: com.appletechstop.reprovision
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: brendonjoslin@yahoo.com
+Filename: ./debs/com.appletechstop.reprovision_1.0_iphoneos-arm.deb
+Size: 10563694 
+MD5sum: 3bb52c6b76bc4f16e4ee297636a68acc
+SHA1: 11026ffbb494478ef07b61ece958f31af957e6b5
+SHA256: 2d1be74c123bb93a51ffc4e20679476d1ee13c9e1c18c7cfd54c8494c25e6322
+Section: Applications 
+Description:  This project provides automatic re-provisioning of iOS and tvOS applications!
+Author: AppleTechStop
+Name: ReProvision
+
 
 
 
